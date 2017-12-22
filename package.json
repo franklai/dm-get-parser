@@ -1,0 +1,19 @@
+{
+  "name": "dm-get-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/franklai/dm-get-parser.git",
+  "author": "Frank Lai <franklai@cmlab.csie.ntu.edu.tw>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  },
+  "dependencies": {
+    "got": "^8.0.1",
+    "striptags": "^3.1.1"
+  }
+}
